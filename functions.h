@@ -2,8 +2,6 @@
 #define FUNCTIONS_H
 #include <iostream>
 
-void ruslan();
-
 
 
 
