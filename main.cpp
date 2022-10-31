@@ -11,5 +11,6 @@ int main()
     }
 =======
 >>>>>>> main
+std::cout << "Testing to see if github is working for us.";
     return 0;
 }
