@@ -1,5 +1,4 @@
 #include "functions.h"
-<<<<<<< HEAD
 
 Game::Game() : mWindow(sf::VideoMode(640, 480), "Game")
 {
@@ -69,5 +68,3 @@ bool Game::isDone() const
 {
     return (!mWindow.isOpen() || mIsDone);
 }
-=======
->>>>>>> main
