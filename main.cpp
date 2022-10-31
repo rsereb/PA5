@@ -1,6 +1,7 @@
 #include "functions.h"
 int main()
 {
+<<<<<<< HEAD
     Game game;
     while(!game.isDone())
     {
@@ -8,5 +9,7 @@ int main()
         game.update();
         game.render();
     }
+=======
+>>>>>>> main
     return 0;
 }

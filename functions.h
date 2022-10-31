@@ -1,5 +1,6 @@
 #ifndef FUNCTIONS_H
 #define FUNCTIONS_H
+<<<<<<< HEAD
 
 #include <SFML/Graphics.hpp>
 class Game
@@ -21,6 +22,12 @@ private:
     void moveShip();
    
 };
+=======
+#include <iostream>
+
+
+
+>>>>>>> main
 
 
 #endif
