@@ -2,6 +2,7 @@
 #define FUNCTIONS_H
 
 #include <SFML/Graphics.hpp>
+#include <iostream>
 class Game
 {
 public:
