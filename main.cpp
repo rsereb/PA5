@@ -1,15 +1,13 @@
 #include "functions.h"
 int main()
 {
-<<<<<<< HEAD
     Game game;
     while(!game.isDone())
     {
         game.handleInput();
         game.update();
         game.render();
+        cout << "test";
     }
-=======
->>>>>>> main
     return 0;
 }
