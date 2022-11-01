@@ -3,7 +3,6 @@
 
 int main()
 {
-<<<<<<< HEAD
     Game game;
     while(!game.isDone())
     {
@@ -11,8 +10,6 @@ int main()
         game.update();
         game.render();
     }
-=======
->>>>>>> main
 cout << "Testing to see if github is working for us.";
     return 0;
 }
