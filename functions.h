@@ -1,8 +1,8 @@
 #ifndef FUNCTIONS_H
 #define FUNCTIONS_H
-<<<<<<< HEAD
 
 #include <SFML/Graphics.hpp>
+#include <iostream>
 class Game
 {
 public:
@@ -22,12 +22,10 @@ private:
     void moveShip();
    
 };
-=======
 #include <iostream>
 
 
 
->>>>>>> main
 
 
 #endif
