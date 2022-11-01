@@ -1,4 +1,6 @@
 #include "functions.h"
+#include <iostream>
+
 int main()
 {
 <<<<<<< HEAD
@@ -11,6 +13,6 @@ int main()
     }
 =======
 >>>>>>> main
-std::cout << "Testing to see if github is working for us.";
+cout << "Testing to see if github is working for us.";
     return 0;
 }
