@@ -4,9 +4,10 @@ int main()
     Game game;
     while(!game.isDone())
     {
-        game.handleInput();
+        //game.handleInput();
         //game.update();
         //game.render();
+        //test
     }
     return 0;
 }
