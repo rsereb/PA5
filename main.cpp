@@ -6,7 +6,7 @@ int main()
     {
         game.handleInput();
         game.update();
-        game.render();
+        //game.render();
     }
     return 0;
 }
