@@ -7,7 +7,6 @@ int main()
         game.handleInput();
         game.update();
         game.render();
-        cout << "test";
     }
     return 0;
 }
